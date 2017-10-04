@@ -13,4 +13,5 @@ Commandline based administration system for Linux.
   * Status: ```./status.sh <name>```
   
 ### Contribution
-Feel free to make a [pull-request](https://github.com/Azoraqua/MCAdmin-Linux/pulls) or an [issue](https://github.com/Azoraqua/MCAdmin-Linux/issues). I'll take a look at it and possibly merge it :)
+Feel free to make a [pull-request](https://github.com/Azoraqua/MCAdmin-Linux/pulls) or an [issue](https://github.com/Azoraqua/MCAdmin-Linux/issues).   
+I'll take a look at it and possibly merge it :)
