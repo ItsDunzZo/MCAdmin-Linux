@@ -23,4 +23,3 @@ else
 		wget "$2" -q -O server.jar
 	fi
 fi
-
